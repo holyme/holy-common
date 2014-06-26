@@ -9,4 +9,4 @@ js文档 - jsdoc
 
 问题/bug - issue
 
-敏捷计划 - trello
+敏捷计划 - trello , www.teambition.com
